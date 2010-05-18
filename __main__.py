@@ -7,7 +7,7 @@ Created on 15 May 2010
 from pygame.locals import *
 from pygame.surface import Surface
 from pygame.time import Clock
-from spaceshot.Vector2 import Vector2
+from Vector2 import Vector2
 import math
 import pygame
 import random
